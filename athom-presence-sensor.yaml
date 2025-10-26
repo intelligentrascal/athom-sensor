@@ -136,7 +136,7 @@ binary_sensor:
       - delayed_on: 50ms
       - delayed_off: 10s
     device_class: motion
-    on_press: []
+    #on_press: []
     #  if:
     #    condition:
     #      switch.is_on: presence_light
